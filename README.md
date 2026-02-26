@@ -1,5 +1,7 @@
 # I-S-445-Database-Management
 
+## WORK IN PROGRESS ##
+
 This course aims to introduce the core concepts of database systems, which is the essential
 knowledge that business managers need to know to effectively store and utilize their data. A database
 is a collection of information that is organized so that it can easily be accessed, managed, and
